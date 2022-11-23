@@ -1,0 +1,1 @@
+- insert NFC card, unlock, get pss list and copy/unlock each
