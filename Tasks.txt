@@ -1,1 +1,9 @@
-- insert NFC card, unlock, get pss list and copy/unlock each
+- detect NFC device, tell
+- read cards (data type, content)
+
+- remember encryption passwords are min/max 16 characters
+- detect if whole db is encrypted or just entries
+- insert NFC card, unlock (if whole db crypt) and/or get pss list and copy/unlock each
+- ask to remember encryption password for a period
+- supported logins: eth (support read but cant create), btc (support read but cant create), github, google, microsoft, pinata.cloud, facebook, keepassx, twitter, floflis
+- insert empty nfc card, initialize it, start creating entries
