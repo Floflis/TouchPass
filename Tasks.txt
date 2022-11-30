@@ -3,6 +3,8 @@
 
 - remember encryption passwords are min/max 16 characters
 - detect if whole db is encrypted or just entries
+- ship /media/daniell/B/git/Floflis/HTML5/TouchPass/TouchPassv1enc using plugz
+
 - insert NFC card, unlock (if whole db crypt) and/or get pss list and copy/unlock each
 - ask to remember encryption password for a period
 - supported logins: eth (support read but cant create), btc (support read but cant create), github, google, microsoft, pinata.cloud, facebook, keepassx, twitter, floflis
