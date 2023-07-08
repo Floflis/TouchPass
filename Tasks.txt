@@ -1,6 +1,8 @@
 - detect NFC device, tell
 - read cards (data type, content)
 
+TouchPass feature: open a session with pss, then insert card automatically unlocking
+
 - remember encryption passwords are min/max 16 characters
 - detect if whole db is encrypted or just entries
 - ship /media/daniell/B/git/Floflis/HTML5/TouchPass/TouchPassv1enc using plugz
